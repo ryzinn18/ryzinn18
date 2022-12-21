@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryzinn18
-- 👀 I’m interested in Python, Data Science, and Machine Learning
-- 🌱 I’m currently learning Java and Computer Vision
-- 💞️ I’m looking to collaborate on Computer Vision and other Machine Learning projects
+- 👀 I’m interested in Python, Backend Engineering, Optimmization, and Automation
+- 🌱 I’m currently learning C and NoSQL Database management/implementaiton
+- 💞️ I’m looking to collaborate on fun personal projects and volunteer projects for open source or private repos
 - 📫 How to reach me: ryr.zinn@gmail.com
 
 <!---
